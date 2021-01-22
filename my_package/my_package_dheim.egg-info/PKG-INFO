@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: my-package-dheim
+Version: 0.0.1
+Summary: A small example package
+Home-page: https://github.com/pypa/sampleproject
+Author: Daniel Heimgartner
+Author-email: author@example.com
+License: UNKNOWN
+Description: # Example Package
+        
+        This is my first example package. After having setup the setup file, I now write these lines.
+        They will be leveraged in the `long_description` within the `setup()` call in `setup.py`.
+        
+        This is just a simple markdown ...
+        You can use [Github-flavored Markdown] (https://guides.github.com/features/mastering-markdown/) to write your content.
+        
+        Now, I'll create the LICENCE for this awesome package!
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Licence :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
