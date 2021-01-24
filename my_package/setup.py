@@ -19,7 +19,7 @@ setuptools.setup(
     description="A small example package",          # short one-sentence summary
     long_description=long_description,              # in this case read from the README.md
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",    # just the URL for the homepage of the project -> can be your own GitHub page
+    url="https://github.com/dheimgartner/python-package-skeleton",    # just the URL for the homepage of the project -> can be your own GitHub page
     packages=setuptools.find_packages(),            # finds all packages required automatically
     classifiers=[                                   # Always at least include these elements!
         "Programming Language :: Python :: 3",

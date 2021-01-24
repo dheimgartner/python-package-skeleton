@@ -1,8 +1,0 @@
-README.md
-setup.py
-example_pkg/__init__.py
-example_pkg/my_fun.py
-my_package_dheim.egg-info/PKG-INFO
-my_package_dheim.egg-info/SOURCES.txt
-my_package_dheim.egg-info/dependency_links.txt
-my_package_dheim.egg-info/top_level.txt
