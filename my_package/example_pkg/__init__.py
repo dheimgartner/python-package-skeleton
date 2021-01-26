@@ -2,4 +2,4 @@
 # import example_pkg will now allow you to write example_pkg.my_fun...
 # Generally you might not want to force users to import modules when loading the package.
 # But in this case, I want!
-from . import my_fun
+import example_pkg.my_fun
